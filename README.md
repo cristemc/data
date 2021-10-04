@@ -13,7 +13,8 @@ Both fixed and mobile broadband providers much file FCC Form 477 twice a year (J
 Datasets below focus on Census Tracts and Blocks within LA county.
 * [American Community Survey 2019 (5-year estimates)](https://github.com/cristemc/data/blob/28795fbe0a3802ee16054789c16dfc7fbd41d034/R12915135_SL150.csv)
   * *Includes categories of age, sex, race, income, employment status, poverty status, gini index, etc.*
-* [Percent of Households with no fixed-internet access (ACS 2019, 5-year estimate](LINK HERE)
-* [Percent of Households with access to smartphone only (ACS 2019, 5-year estimate)](LINK HERE)
+* [Percent of Households with no fixed-internet access (ACS 2019, 5-year estimate](https://github.com/cristemc/data/blob/00bccf013f1f2c0043c7f3a07f952d027cb70b41/PolicyMap%20Data_no-access_%200242UTC.csv)
+* [Percent of Households with access to smartphone only (ACS 2019, 5-year estimate)](https://github.com/cristemc/data/blob/00bccf013f1f2c0043c7f3a07f952d027cb70b41/PolicyMap%20Data_smartphone-only_%200244UTC.csv)
+* [Percent of Households with only cellular broadbrand access (ACS 2019, 5-year estimate](https://github.com/cristemc/data/blob/00bccf013f1f2c0043c7f3a07f952d027cb70b41/PolicyMap%20Data_cellular%20only_0251UTC.csv)
 ## LA County Open Data
-* [Public internet access points accross LA County](LINK HERE)
+* [Public internet access points accross LA County](https://github.com/cristemc/data/blob/00bccf013f1f2c0043c7f3a07f952d027cb70b41/Public_Internet_Access.csv)
