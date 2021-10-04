@@ -5,5 +5,15 @@ Both fixed and mobile broadband providers much file FCC Form 477 twice a year (J
 * [US Fixed broadband (with satellite)](LINK HERE), Dec 2019
 * [California Mobile Deployment - Centroid Methodology](https://drive.google.com/file/d/19ueKkjgTJqS7tIIMExgLW-W7hd_w-U4E/view?usp=sharing), Dec 2019
   * *Coverage by technology at the census block level*
+  * Note: Currently hosted on Google Drive until I figure out to us Git LFS correctly or further refine data
 * [California Mobile Deployment - Acutal Area Methodology](https://drive.google.com/file/d/1vBy2drB0ifyORxF9Ia5DXHoVomzG0gCB/view?usp=sharing), Dec 2019
   * *Produced based on analysis of the actual area covered by technology, and by provider* 
+  * * Note: Currently hosted on Google Drive until I figure out to us Git LFS correctly or further refine data
+## Census Data
+Datasets below focus on Census Tracts and Blocks within LA county.
+* [American Community Survey 2019 (5-year estimates)](https://github.com/cristemc/data/blob/28795fbe0a3802ee16054789c16dfc7fbd41d034/R12915135_SL150.csv)
+  * *Includes categories of age, sex, race, income, employment status, poverty status, gini index, etc.*
+* [Percent of Households with no fixed-internet access (ACS 2019, 5-year estimate](LINK HERE)
+* [Percent of Households with access to smartphone only (ACS 2019, 5-year estimate)](LINK HERE)
+## LA County Open Data
+* [Public internet access points accross LA County](LINK HERE)
